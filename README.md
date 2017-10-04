@@ -1,6 +1,9 @@
 # practice-docker-postgres10
 
-# HOW to use
+# how to use 
+
+I try to boot postgresql10 with using docker container.
+
 ## 立ち上げ(boot)
 
 ```
